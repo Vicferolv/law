@@ -1,0 +1,23 @@
+table {
+    border-collapse: collapse;
+    margin: 20px;
+}
+th, td {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    border: 1px solid #999;
+    font-weight: bold;
+}
+th {
+    background-color: #cc99ff; /* Encabezado morado */
+}
+.header-left {
+    background-color: #cc99ff;
+}
+.yellow {
+    background-color: #ffff99;
+}
+.orange {
+    background-color: #ffcc99;
+}
