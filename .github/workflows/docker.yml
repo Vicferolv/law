@@ -44,4 +44,4 @@ jobs:
           push: true
           tags: | #(1)
             bikboss/law:latest 
-            ghcr.io/bikboss/law:latest 
+            ghcr.io/vicferolv/law:latest 
